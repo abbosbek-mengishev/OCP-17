@@ -1,0 +1,6 @@
+git config --global --list
+
+git config --global http.proxy "inet.fido.uz:3128"
+
+git config --global --unset http.proxy
+
